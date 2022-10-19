@@ -2,6 +2,7 @@
 
 ### Projeto ⚒️
 - O projeto em questão é um jokenpô que permite conexão com múltiplos jogadores e foi desenvolvido utilizando sockets e a interface gráfica do PyGame.
+- Projeto realizado como trabalho prático do curso de Redes de Computadores(BCC361) da Universidade Federal de Ouro Preto 
 
 ### Executando o código
 - Criando o ambiente virtual ⚙️
