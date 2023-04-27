@@ -26,3 +26,6 @@
 
 ### Observações
 - Será necessário editar manualmente o host do server.py para o ip4 da sua máquina.
+
+### Captura de tela 📸
+![image](https://user-images.githubusercontent.com/88840131/234989629-9f05bfc9-9795-4975-af12-16772b27eb87.png)
